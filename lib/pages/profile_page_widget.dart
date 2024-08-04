@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutterflow_ui/flutterflow_ui.dart';
 
-import 'profile_page_model.dart';
-export 'profile_page_model.dart';
+import '../models/profile_page_model.dart';
+export '../models/profile_page_model.dart';
 
 class ProfilePageWidget extends StatefulWidget {
   const ProfilePageWidget({super.key});

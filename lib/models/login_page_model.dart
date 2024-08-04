@@ -1,6 +1,6 @@
 import 'package:flutterflow_ui/flutterflow_ui.dart';
 
-import 'login_page_widget.dart' show LoginPageWidget;
+import '../pages/login_page_widget.dart' show LoginPageWidget;
 
 import 'package:flutter/material.dart';
 

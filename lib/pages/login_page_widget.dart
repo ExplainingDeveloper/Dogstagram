@@ -4,8 +4,8 @@ import 'package:flutterflow_ui/flutterflow_ui.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'login_page_model.dart';
-export 'login_page_model.dart';
+import '../models/login_page_model.dart';
+export '../models/login_page_model.dart';
 
 class LoginPageWidget extends StatefulWidget {
   const LoginPageWidget({super.key});
